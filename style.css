@@ -189,6 +189,14 @@ nav ul li a:hover::after {
     letter-spacing: 1px;
 }
 
+/* Imagen principal debajo del título */
+.hero-image {
+    width: 100%;
+    height: auto;
+    margin: 20px 0;
+    border-radius: 10px;
+}
+
 .hero p {
     font-size: 1.4em;
     margin-bottom: 40px;
